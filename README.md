@@ -18,4 +18,4 @@ Este repositório faz parte da disciplina:
     System.out.println("Em breve mais atualizações.");
 ```
 
-![Avatar Perfil]([[avatar-de-perfil.png]])
+![Avatar Perfil]([[[avatar-de-perfil.png](https://github.com/claudioreisjr/minhabio-gcc259/blob/main/avatar-de-perfil.png)https://github.com/claudioreisjr/minhabio-gcc259/blob/main/avatar-de-perfil.png]])
