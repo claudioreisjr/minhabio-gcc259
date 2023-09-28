@@ -18,3 +18,4 @@ Este repositório faz parte da disciplina:
     System.out.println("Em breve mais atualizações.");
 ```
 
+![Avatar Perfil]([[avatar-de-perfil.png]])
